@@ -1,3 +1,7 @@
+<a href="http://travis-ci.org/xeb/mono-xunit-with-cde-example">
+<img src="https://api.travis-ci.org/xeb/mono-xunit-with-cde-example.svg?branch=master" />
+</a>
+
 Mono Xunit with CDE Example
 ===========================
 

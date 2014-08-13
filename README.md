@@ -22,3 +22,5 @@ Again, assume CentOS.  You can rebuild the cde-pacakge directory on another plat
 1. Clone this repository
 2. Run ```./runtests.sh.cde``` from the root
 3. xUnit Tests running on Mono without installing Mono! 
+
+<img src="https://raw.githubusercontent.com/xeb/mono-xunit-with-cde-example/master/screenshot.png" />

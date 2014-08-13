@@ -1,0 +1,5 @@
+/root/mono-xunit-with-cde-example/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/root/mono-xunit-with-cde-example/bin/Debug/MonoXunit.exe.mdb
+/root/mono-xunit-with-cde-example/bin/Debug/MonoXunit.exe
+/root/mono-xunit-with-cde-example/obj/x86/Debug/MonoXunit.exe
+/root/mono-xunit-with-cde-example/obj/x86/Debug/MonoXunit.exe.mdb

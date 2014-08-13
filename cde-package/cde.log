@@ -1,0 +1,2 @@
+cd 'cde-root/root/mono-xunit-with-cde-example'
+'./xbuild.cde' 'MonoXunit.sln'

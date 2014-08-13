@@ -1,0 +1,5 @@
+#!/bin/sh
+CURDIR=`pwd`
+cd cde-package/cde-root/root/packaged/
+./runtests.sh.cde
+cd $CURDIR

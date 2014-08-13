@@ -1,5 +1,5 @@
 #!/bin/sh
 CURDIR=`pwd`
-cd cde-package/cde-root/root/packaged/
+cd cde-package/cde-root/root/mono-xunit-with-cde-example/
 ./runtests.sh.cde
 cd $CURDIR
